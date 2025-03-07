@@ -50,11 +50,11 @@ Me chamo Matheus Mendes dos Santos, tenho 19 anos e sou de São Paulo. Concluí 
 />
 <img 
     align="left" 
-    alt="Node" 
-    title="Node"
+    alt="NodeJS" 
+    title="NodeJS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/node/node-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
 <img 
     align="left" 
@@ -64,6 +64,9 @@ Me chamo Matheus Mendes dos Santos, tenho 19 anos e sou de São Paulo. Concluí 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
+
+</br>
+</br>
 
 ### 📊 Estatísticas
 
